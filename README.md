@@ -12,3 +12,7 @@
 3. Install NPM dependencies
 
     `npm i`
+
+4. Run the frontend
+
+    `npm start`
